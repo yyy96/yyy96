@@ -27,7 +27,11 @@ DevOps :
 
 
 #### 🌈 Interest
-`OOP` `TDD` `Agile` `API Documentation` 
+**`OOP`&nbsp; `TDD`&nbsp; `Clean Code`&nbsp; `Agile`** <br>
+
+◦ 변경에 유연한 코드, 객체를 존중하는 코드를 지향합니다. <br>
+◦ 테스트 코드의 중요성을 바탕으로 단위 테스트 기반의 개발을 지향합니다. <br>
+◦ 협업시 애자일 개발 프로세스를 지향하며 커뮤니케이션을 중요시합니다. <br>
 
 
 #### 📣 Contact & About Me
