@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=e1efdc&height=100&section=header&text=Yeonjae%20Lee&fontColor=ffffff&fontSize=50)
 
-### Hi there 👋
+### Hi there 👋🏻
 
 #### ⚒ Skills
 Language :
@@ -38,7 +38,15 @@ DevOps :
 <a href="mailto:dlduswo1247@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://velog.io/@yyy96" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white"/></a>
 
+<br>
+
 </div>
+
+<!--
+방문자
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyyy96&count_bg=%23C5DFB1&title_bg=%23A2B2A0&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%8B%F0%9F%8F%BB&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
+
 
 <!--
 **yyy96/yyy96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
