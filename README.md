@@ -2,6 +2,25 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=e1efdc&height=100&section=header&text=Yeonjae%20Lee&fontColor=ffffff&fontSize=50)
 
+### About me
+💻 I'm a Backend Developer.
+🇰🇷 I'm in South Korea.
+
+### Career
+‣ 줌 인터넷 (現. EST AID) / 백엔드 개발자 (2023.01 ~ 재직중) <br>
+‣ 네이버 클라우드 / 인턴 (2021.10 ~ 2021.11)
+
+### Skill
+‣ `Java` `SpringBoot` `JPA` `QueryDsl` `MySQL` `Redis` <br>
+‣ `Kubernetes` `AWS` `Jenkins` `Docker`
+  
+### Article
+<a href="https://velog.io/@yyy96" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white"/></a>
+
+
+
+
+<!-- 취준생때 쓰던 버전
 ### Hi there 👋🏻
 
 #### ⚒ Skills
@@ -40,6 +59,7 @@ DevOps :
 <a href="https://velog.io/@yyy96" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white"/></a>
 
 <br>
+-->
 
 </div>
 
